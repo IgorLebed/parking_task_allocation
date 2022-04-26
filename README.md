@@ -32,16 +32,16 @@ pip install munkres
 ## Work example
 
 * # Menu
-![menu_list](/parking_controller/task_allocation/screenshots/menu_list.jpg)
+![menu_list](/screenshots/menu_list.jpg)
 
 * # Add car in list
     * Add car on 1h to 6h
-    ![parking1_6](/parking_controller/task_allocation/screenshots/parkin1_6.jpg)
+    ![parking1_6](/screenshots/parkin1_6.jpg)
     * Add car on 6h to 12h
-    ![parking6_12](/parking_controller/task_allocation/screenshots/parkin6_12.jpg)
+    ![parking6_12](/screenshots/parkin6_12.jpg)
     * Add car on 12h to 18h
-    ![parking12_18](/parking_controller/task_allocation/screenshots/parkin12_18.jpg)
+    ![parking12_18](/screenshots/parkin12_18.jpg)
     * Add car on 18h to 24h
-    ![parking18_24](/parking_controller/task_allocation/screenshots/parkin18_24.jpg) 
+    ![parking18_24](/screenshots/parkin18_24.jpg) 
 * # Delete car from list
-![pick_up_car](/parking_controller/task_allocation/screenshots/pick_up_1.jpg) 
+![pick_up_car](/screenshots/pick_up_1.jpg) 
