@@ -1,7 +1,7 @@
 # Task allocation
 ## _Introduction_
 
-[![V|Lebedeva](/parking_controller/task_allocation/screenshots/icon_ras.png)](https://spcras.ru/units/employee.php?ID=462463)
+[![I|Lebedev](/screenshots/icon_ras.png)](https://spcras.ru/units/employee.php?ID=462463)
 
 ## Features
 * # Input topic:
